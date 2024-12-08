@@ -1,0 +1,438 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.26f1 (ccb7c73d2c02) revision 13416391'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreSingleLanguage' Language: 'tr' Physical Memory: 16022 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.26f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker25
+-projectPath
+C:/Users/1must/Desktop/AR_Projem
+-logFile
+Logs/AssetImportWorker25.log
+-srvPort
+58478
+-job-worker-count
+11
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/1must/Desktop/AR_Projem
+C:/Users/1must/Desktop/AR_Projem
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [13556]  Target information:
+
+Player connection [13556]  * "[IP] 192.168.1.156 [Port] 0 [Flags] 2 [Guid] 893559542 [EditorId] 893559542 [Version] 1048832 [Id] WindowsEditor(7,MustafaVRL) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [13556] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [13556] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 10.76 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 4.88 ms.
+Initialize engine version: 6000.0.26f1 (ccb7c73d2c02)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/1must/Desktop/AR_Projem/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.5613
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.26f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.017652 seconds.
+- Loaded All Assemblies, in  0.814 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 1133 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.756 seconds
+Domain Reload Profiling: 2556ms
+	BeginReloadAssembly (263ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (66ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (109ms)
+	LoadAllAssembliesAndSetupDomain (340ms)
+		LoadAssemblies (255ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (331ms)
+			TypeCache.Refresh (328ms)
+				TypeCache.ScanAssembly (303ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1758ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1675ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1380ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (9ms)
+			ProcessInitializeOnLoadAttributes (185ms)
+			ProcessInitializeOnLoadMethodAttributes (90ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.636 seconds
+Refreshing native plugins compatible for Editor in 3.81 ms, found 6 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.502 seconds
+Domain Reload Profiling: 3125ms
+	BeginReloadAssembly (629ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (869ms)
+		LoadAssemblies (554ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (463ms)
+			TypeCache.Refresh (325ms)
+				TypeCache.ScanAssembly (298ms)
+			BuildScriptInfoCaches (112ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (1503ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1106ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (46ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (103ms)
+			ProcessInitializeOnLoadAttributes (802ms)
+			ProcessInitializeOnLoadMethodAttributes (132ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 13.29 ms, found 6 plugins.
+Preloading 2 native plugins for Editor in 0.55 ms.
+Unloading 291 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6067 unused Assets / (5.3 MB). Loaded Objects now: 7022.
+Memory consumption went from 300.6 MB to 295.3 MB.
+Total: 21.794000 ms (FindLiveObjects: 1.317600 ms CreateObjectMapping: 1.320700 ms MarkObjects: 14.171700 ms  DeleteObjects: 4.975600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 211901.074645 seconds.
+  path: Assets/Quirky Series Ultimate/FREE/Materials/M_Sparrow.mat
+  artifactKey: Guid(797669773fa10544383b7822df49f5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Quirky Series Ultimate/FREE/Materials/M_Sparrow.mat using Guid(797669773fa10544383b7822df49f5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '24d58d827d1651f0867c4ed65a7cc2bc') in 1.1781076 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.912344 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Apple_Panda/Materials/Apple_Costumed/mat_Apple_Costumed_inner_mouth.mat
+  artifactKey: Guid(cfecfef20f1f0ac428e17e37ffcf4f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Apple_Panda/Materials/Apple_Costumed/mat_Apple_Costumed_inner_mouth.mat using Guid(cfecfef20f1f0ac428e17e37ffcf4f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bc16eb44809b3e2b4d44fd56513f76af') in 0.0374288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.213465 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Jasper_Badger/Materials/Jasper the Badger/mat_Jasper_mouth.mat
+  artifactKey: Guid(c2b85ad0e7c68ae49ad6ef862c605a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Jasper_Badger/Materials/Jasper the Badger/mat_Jasper_mouth.mat using Guid(c2b85ad0e7c68ae49ad6ef862c605a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2e1460fd045605b04b1fe8e7520714dd') in 0.0207272 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Jasper_Badger/Materials/Jasper the Badger Suit/mat_Jasper_Suit_mouth.mat
+  artifactKey: Guid(8f250b5cd3abd654d93bb26b7c9194f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Jasper_Badger/Materials/Jasper the Badger Suit/mat_Jasper_Suit_mouth.mat using Guid(8f250b5cd3abd654d93bb26b7c9194f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06777b70daacaa3cac524eeae6426e43') in 0.0240421 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Shanks_Frog/Materials/Shanks_Costumed/Shared/mat_Shanks_Costumed_Eyeball_shd.mat
+  artifactKey: Guid(a54b955d9726ba540b802322f3f63e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Shanks_Frog/Materials/Shanks_Costumed/Shared/mat_Shanks_Costumed_Eyeball_shd.mat using Guid(a54b955d9726ba540b802322f3f63e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'da32e629f817ac57339dd313f08c1853') in 0.0199484 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.020893 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Shanks_Frog/Materials/Shanks_Costumed/Shanks_Mocap/mat_Shanks_Mocap_mocapsuit.mat
+  artifactKey: Guid(11831c6e166d9b444b2bc22401812acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Shanks_Frog/Materials/Shanks_Costumed/Shanks_Mocap/mat_Shanks_Mocap_mocapsuit.mat using Guid(11831c6e166d9b444b2bc22401812acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1825b00224fd05a9de7cce080449e6bf') in 0.02778 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.262677 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Materials/Sydney_Rabbit/mat_Sydney_Rabbit_mouth.mat
+  artifactKey: Guid(f99cce79a86c94f409116104afd1de56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Materials/Sydney_Rabbit/mat_Sydney_Rabbit_mouth.mat using Guid(f99cce79a86c94f409116104afd1de56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '09ce2ac59b1a8dcbe03a3ee83452fb13') in 0.0246532 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.659769 seconds.
+  path: Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Materials/Sydney_Costumed/mat_Sydney_Silent_mouth.mat
+  artifactKey: Guid(a68523781dc9f774792ed3540d67e7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RealtimeRascals_Facetracking/Sydney_Rabbit/Materials/Sydney_Costumed/mat_Sydney_Silent_mouth.mat using Guid(a68523781dc9f774792ed3540d67e7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b21039d9fd740a975b7e2c4064b86d5e') in 0.0276614 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/VertexColorFarmAnimals/Models/Materials/Material.008.mat
+  artifactKey: Guid(ca28e47b70880f445bc0545ea9f9c697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VertexColorFarmAnimals/Models/Materials/Material.008.mat using Guid(ca28e47b70880f445bc0545ea9f9c697) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '555dc452427e9bee3d6bb9218167d7ee') in 0.0262783 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Fristy Fantasy Lands 1/Fristy Fantasy Lands 1/Meshes/Trees/Materials/No Name.mat
+  artifactKey: Guid(98aad535017528144b615ee2836e647a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fristy Fantasy Lands 1/Fristy Fantasy Lands 1/Meshes/Trees/Materials/No Name.mat using Guid(98aad535017528144b615ee2836e647a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '32c99c6dc9684916dc1bb52c605a9753') in 0.0115129 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/Built-In/MidAirReference.mat
+  artifactKey: Guid(2e9b38b0a13ba442b98571aeeb6f3849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/Built-In/MidAirReference.mat using Guid(2e9b38b0a13ba442b98571aeeb6f3849) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd167733bc4734b31b586293f896b0e21') in 0.028183 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.358933 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/Built-In/OutlineOpaque.mat
+  artifactKey: Guid(1d25c0ce72e58124fa2d482e07c9fcd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/Built-In/OutlineOpaque.mat using Guid(1d25c0ce72e58124fa2d482e07c9fcd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b8a4bb5a230176e20c74496a0ffe151') in 0.0123856 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/#NVJOB Water Shaders V2/Example Scenes/Environment/Particles/Particle 2.mat
+  artifactKey: Guid(79f43568c800436384039ce9556fde0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/#NVJOB Water Shaders V2/Example Scenes/Environment/Particles/Particle 2.mat using Guid(79f43568c800436384039ce9556fde0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eea95c5e2bce7bb6b3329fca9d0286e5') in 0.0143164 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Fristy Fantasy Lands 1/Fristy Fantasy Lands 1/Meshes/Plants/Materials/Plants_Billboard.mat
+  artifactKey: Guid(e0a4063335c6350439cf8ee18314ed44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fristy Fantasy Lands 1/Fristy Fantasy Lands 1/Meshes/Plants/Materials/Plants_Billboard.mat using Guid(e0a4063335c6350439cf8ee18314ed44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '494b7f040e01f7c13ce3a15c0e47ba51') in 0.0360516 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Lowpoly_Holiday_House/Materials/Plinth_1.mat
+  artifactKey: Guid(1849680c58c97504b8e8050cb08e0d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Holiday_House/Materials/Plinth_1.mat using Guid(1849680c58c97504b8e8050cb08e0d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '91b60688d766d0408e825f3f2a58af90') in 0.0194652 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.599118 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/URP/PointCloudHeightClip_URP.mat
+  artifactKey: Guid(80799c11dd6db41b7b29091035ae3556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/URP/PointCloudHeightClip_URP.mat using Guid(80799c11dd6db41b7b29091035ae3556) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b54f434f771619af5aaf63922449b09') in 0.0121651 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/BasicToonWaterShader/Material/Pool.mat
+  artifactKey: Guid(02ae9dcb61d7a4f40a2fa2cb86176282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicToonWaterShader/Material/Pool.mat using Guid(02ae9dcb61d7a4f40a2fa2cb86176282) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0d9c049b1a133ebc8a0b4e94fb18852d') in 0.0120558 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.993131 seconds.
+  path: Assets/Fristy Fantasy Lands 1/Fristy Fantasy Lands 1/Shaders/HDRP/Procural Bark_HDRP.shadergraph
+  artifactKey: Guid(458839f52f42f254588b20cbe0fa37f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fristy Fantasy Lands 1/Fristy Fantasy Lands 1/Shaders/HDRP/Procural Bark_HDRP.shadergraph using Guid(458839f52f42f254588b20cbe0fa37f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93b9f573159762e8e1d42e53226a22bd') in 6.8580618 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.130698 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+  artifactKey: Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph using Guid(ca2ed216f98028c4dae6c5224a952b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4068a66f601a05f67d56c8b63afe7215') in 0.0114741 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.807513 seconds.
+  path: Assets/Fristy Fantasy Lands 1/Fristy Fantasy Lands 1/Meshes/Trees/Materials/Tree_Bark.mat
+  artifactKey: Guid(4fe9a890f8dcaa9408c49a4919ef9a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fristy Fantasy Lands 1/Fristy Fantasy Lands 1/Meshes/Trees/Materials/Tree_Bark.mat using Guid(4fe9a890f8dcaa9408c49a4919ef9a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '68381be7e81f9a7965d8edce8db11696') in 0.0179947 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134094 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/URP/UnlitTextureHeightClip_URP.mat
+  artifactKey: Guid(9751c35c267df4a269c8039a01a19b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/URP/UnlitTextureHeightClip_URP.mat using Guid(9751c35c267df4a269c8039a01a19b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '19b28fd440ad16b7b720179d698947f5') in 0.010653 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Fristy Fantasy Lands 1/Fristy Fantasy Lands 1/Shaders/URP/Vegetation No SSS 1.shadergraph
+  artifactKey: Guid(32281348252ddbc4db655fb37a6efcc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fristy Fantasy Lands 1/Fristy Fantasy Lands 1/Shaders/URP/Vegetation No SSS 1.shadergraph using Guid(32281348252ddbc4db655fb37a6efcc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '430c33a38ebe355370b2e1a69ef86444') in 3.2639036 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.520200 seconds.
+  path: Assets/VertexColorFarmAnimals/Materials/VertexColorUnlit.mat
+  artifactKey: Guid(b83d3bf75db8f704fb67e55cf64a537f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VertexColorFarmAnimals/Materials/VertexColorUnlit.mat using Guid(b83d3bf75db8f704fb67e55cf64a537f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b0477833100bc93e48e3181c81df101') in 0.011879 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/URP/VuforiaQRCodeMaterial_URP.mat
+  artifactKey: Guid(aea538f52f29f4f078d5f73318749cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/URP/VuforiaQRCodeMaterial_URP.mat using Guid(aea538f52f29f4f078d5f73318749cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bed4757790faace28d87f7dd7d13a013') in 0.0143406 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Lowpoly_Holiday_House/Materials/Wall_clumb.mat
+  artifactKey: Guid(2a1402e85fa59f2419152624ff8723c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lowpoly_Holiday_House/Materials/Wall_clumb.mat using Guid(2a1402e85fa59f2419152624ff8723c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bbbf42911c179e2db3dd1211218e8268') in 2.794913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.431032 seconds.
+  path: Assets/Simple Water Shader HDRP/Materials/Water_mat_02.mat
+  artifactKey: Guid(1d4b1ef5ff447c948a375ff30ed21f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Water Shader HDRP/Materials/Water_mat_02.mat using Guid(1d4b1ef5ff447c948a375ff30ed21f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '862f0fb97b8298dc9381e35b8e6e90a5') in 0.0255164 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Simple Water Shader HDRP/Shaders/WaterShaderHDRP.shadergraph
+  artifactKey: Guid(f3ff61003df241e4a84f6c4962ed1e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Water Shader HDRP/Shaders/WaterShaderHDRP.shadergraph using Guid(f3ff61003df241e4a84f6c4962ed1e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddef3fe0c6c27d6f0701b6bc79870741') in 0.0125855 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/BasicToonWaterShader/Texture/Materials/wave7.mat
+  artifactKey: Guid(86b07a689d97bda4fb4d26639ea995e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BasicToonWaterShader/Texture/Materials/wave7.mat using Guid(86b07a689d97bda4fb4d26639ea995e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6c6dbbb763e73843448765b6c07255ff') in 0.0158374 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/CubePeopleDemo/Materials/Demo/White.mat
+  artifactKey: Guid(95a1780017faba6449e3312b197c8a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CubePeopleDemo/Materials/Demo/White.mat using Guid(95a1780017faba6449e3312b197c8a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '50f1bdd145d75f8ee66ff203ba82da84') in 0.0121056 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
