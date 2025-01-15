@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1must\\Music\\AR_Project\\Assembly-CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\1must\\Videos\\AR_Project\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "C:\\Users\\1must\\Music\\AR_Project\\Assembly-CSharp.csproj",
+      "projectPath": "C:\\Users\\1must\\Videos\\AR_Project\\Assembly-CSharp.csproj",
       "packagesPath": "C:\\Users\\1must\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1must\\Music\\AR_Project\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+      "outputPath": "C:\\Users\\1must\\Videos\\AR_Project\\Temp\\obj\\Debug\\Assembly-CSharp\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
